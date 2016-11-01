@@ -7,16 +7,13 @@ http://magnificascience.com/
 
 GitHub https://github.com/MagnificaScience/
 
-This program can turn your android phone into a larger display by utilising visual persistence as the handset is waved through the air. We have a YouTube a video which explains the program here: 
-***INSERT LINK HERE***
+This program can turn your android phone into a larger display by utilising visual persistence as the handset is waved through the air. We have a YouTube a video which explains the program here: ***INSERT LINK HERE***
 
 If you want any features added, please only request them if you are prepared to do the work. I would be keen to see the python/kivy/android development community grow.
 
 This is the first program I have written in python/kivy, so this is a learning process for me. I'm sure there are plenty of ways to make the program more efficient. Much of the code was developed using a trial-and-error method, which is not ideal for efficient, bug-free code.
 
-Released under GPLv3
-You can modify, compile and re-distribute this source code subject to the
-following rules:
+Released under GPLv3. You can modify, compile and re-distribute this source code subject to the following rules:
 
 1. Don't add anything that would be considered malware
 2. Don't add any unnecessary permissions or collect info from users
